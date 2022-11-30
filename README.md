@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**Nihilism0/Nihilism0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💖[Blogs](www.madeindz.work) 
 
-Here are some ideas to get you started:
+**A college student who is studying at Chongqing University of Posts and Telecommunications, follows the seniors to learn golang**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫**Interest**💫
+
+📖**Decent**
+
+- **Philosophy**
+- **Psychology**
+- **Literature**
+
+🎮**Games**
+
+- **Apex Legends**
+- **Rainbow Six Siege**
+- **League of Legends**
+- **Phigros**
+
+🎶**Singers**
+
+- **Joker Xue** 
+- **Dee Kwok**
+- **Ronghao Li**
+- **No Party For Cao Dong** 
+- **Vae**
+
+🎥**Film Works**
+
+- **Rick and Morty**
+- **TENET**
+- **からかい上手の高木さん**
+- **ID:INVADED**
+- **Cry Baby**
+- **Chainsaw Man**
+
