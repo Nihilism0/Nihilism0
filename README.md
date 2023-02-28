@@ -2,7 +2,7 @@
 
 ### 💖[Blogs](http://hello.madeindz.work/) 
 
-**A college student who is studying at Chongqing University of Posts and Telecommunications, follows the seniors to learn golang**
+**A college freshman who is studying at Chongqing University of Posts and Telecommunications, follows the seniors to learn golang**
 
 💫**Interest**💫
 
