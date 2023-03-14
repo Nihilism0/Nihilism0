@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 💖[Blogs](http://hello.madeindz.work/) 
+### 💖[Blogs](www.madeindz.work) 
 
 **A college freshman who is studying at Chongqing University of Posts and Telecommunications, follows the seniors to learn golang**
 
