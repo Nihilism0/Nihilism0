@@ -18,6 +18,7 @@
 - **Rainbow Six Siege**
 - **League of Legends**
 - **Phigros**
+- **CS:GO**
 
 🎶**Singers**
 
@@ -25,7 +26,7 @@
 - **Dee Kwok**
 - **Ronghao Li**
 - **No Party For Cao Dong** 
-- **Vae**
+- **Aimer**
 
 🎥**Film Works**
 
@@ -34,5 +35,5 @@
 - **からかい上手の高木さん**
 - **ID:INVADED**
 - **Cry Baby**
-- **Chainsaw Man**
+- **...(A LOT)**
 
